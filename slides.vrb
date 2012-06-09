@@ -1,0 +1,11 @@
+\frametitle {Oberflächendetails}
+\begin{block}{Prozedurales Displacement}
+\begin{lstlisting}
+distance(Position) = distance_function(Position) +
+                     displacement(Position)
+\end{lstlisting}
+\end{block}
+\begin{center}
+\includegraphics[width=0.46\linewidth]{base-shape}
+\includegraphics[width=0.46\linewidth]{coarse-shell}
+\end{center}
